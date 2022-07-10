@@ -1,0 +1,42 @@
+{
+  "name": "@pictogrammers/materialdings",
+  "version": "1.0.0",
+  "description": "A modern take on a classic, MaterialDings recreates the legendary Wingdings font using Material Design guidelines.",
+  "main": "index.mjs",
+  "author": "Michael Irigoyen <michael@irigoyen.dev>",
+  "license": "Apache-2.0",
+  "type": "module",
+  "engines" : { 
+    "node" : ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pictogrammers/MaterialDings.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pictogrammers/MaterialDings/issues"
+  },
+  "homepage": "https://github.com/Pictogrammers/MaterialDings#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "wingdings",
+    "material",
+    "mdi",
+    "font",
+    "fontface"
+  ],
+  "scripts": {
+    "build": "node index.mjs"
+  },
+  "devDependencies": {
+    "@mdi/js": "^6.9.96",
+    "eslint": "^8.19.0",
+    "svg2ttf": "^6.0.3",
+    "svgicons2svgfont": "^12.0.0",
+    "svgpath": "^2.5.0",
+    "ttf2woff": "^3.0.0",
+    "ttf2woff2": "^4.0.5"
+  }
+}

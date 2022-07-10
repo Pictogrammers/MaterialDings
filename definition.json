@@ -1,0 +1,373 @@
+{
+  "icons": {
+    "\u0021": { "icon": "mdi:Pencil" },
+    "\u0022": { "icon": "mdi:ContentCut" },
+    "\u0023": { "icon": "mdi:ScissorsCutting" },
+    "\u0024": { "icon": "mdi:Glasses" },
+    "\u0025": { "icon": "mdi:BellOutline" },
+    "\u0026": { "icon": "mdi:BookOpenVariant" },
+    "\u0027": { "icon": "mdi:Candle" },
+    "\u0028": { "icon": "mdi:PhoneClassic" },
+    "\u0029": { "icon": "mdi:Phone" },
+    "\u002A": { "icon": "mdi:Email" },
+    "\u002B": { "icon": "mdi:Mail" },
+    "\u002C": { "icon": "mdi:Mailbox" },
+    "\u002D": { "icon": "mdi:MailboxUp" },
+    "\u002E": { "icon": "mdi:MailboxOpenUp" },
+    "\u002F": { "icon": "mdi:MailboxOpen" },
+    "\u0030": { "icon": "mdi:Folder" },
+    "\u0031": { "icon": "mdi:FolderOpen" },
+    "\u0032": { "icon": "mdi:FileDocument" },
+    "\u0033": { "icon": "mdi:TextBox" },
+    "\u0034": { "icon": "mdi:TextBoxMultiple" },
+    "\u0035": { "icon": "mdi:FileCabinet" },
+    "\u0036": { "icon": "mdi:TimerSand" },
+    "\u0037": { "icon": "mdi:Keyboard" },
+    "\u0038": { "icon": "mdi:Mouse" },
+    "\u0039": { "icon": "mdi:Webcam" },
+    "\u003A": { "icon": "mdi:Laptop" },
+    "\u003B": { "icon": "mdi:SetTopBox" },
+    "\u003C": { "icon": "mdi:Floppy" },
+    "\u003D": { "icon": "mdi:FloppyVariant" },
+    "\u003E": { "icon": "mdi:Radioactive" },
+    "\u003F": { "icon": "svg:HandWriting" },
+    "\u0040": {
+      "icon": "svg:HandWriting",
+      "transform": [
+        { "type": "flip", "value": "horizontal" }
+      ]
+    },
+    "\u0041": { "icon": "mdi:HandPeace" },
+    "\u0042": { "icon": "mdi:HandOkay" },
+    "\u0043": {
+      "icon": "mdi:ThumbUp",
+      "transform": [
+        { "type": "scale", "value": 0.7 }
+      ]
+    },
+    "\u0044": {
+      "icon": "mdi:ThumbDown",
+      "transform": [
+        { "type": "scale", "value": 0.7 }
+      ]
+    },
+    "\u0045": { "icon": "mdi:HandPointingLeft" },
+    "\u0046": { "icon": "mdi:HandPointingRight" },
+    "\u0047": { "icon": "mdi:HandPointingUp" },
+    "\u0048": { "icon": "mdi:HandPointingDown" },
+    "\u0049": { "icon": "mdi:HandBackLeft" },
+    "\u004A": { "icon": "mdi:EmoticonHappy" },
+    "\u004B": { "icon": "mdi:EmoticonNeutral" },
+    "\u004C": { "icon": "mdi:EmoticonSad" },
+    "\u004D": { "icon": "mdi:Bomb" },
+    "\u004E": { "icon": "mdi:Skull" },
+    "\u004F": { "icon": "mdi:FlagVariantOutline" },
+    "\u0050": { "icon": "mdi:FlagTriangle" },
+    "\u0051": { "icon": "mdi:Airplane" },
+    "\u0052": { "icon": "mdi:WeatherSunny" },
+    "\u0053": { "icon": "mdi:Water" },
+    "\u0054": { "icon": "mdi:Snowflake" },
+    "\u0055": { "icon": "mdi:Cross" },
+    "\u0056": { "icon": "mdi:CrossOutline" },
+    "\u0057": { "icon": "mdi:CrossCeltic" },
+    "\u0058": { "icon": "mdi:CrossBolnisi" },
+    "\u0059": { "icon": "mdi:StarDavid" },
+    "\u005A": { "icon": "mdi:StarCrescent" },
+    "\u005B": { "icon": "mdi:YinYang" },
+    "\u005C": { "icon": "mdi:Om" },
+    "\u005D": { "icon": "mdi:Dharmachakra" },
+    "\u005E": { "icon": "mdi:ZodiacAries" },
+    "\u005F": { "icon": "mdi:ZodiacTaurus" },
+    "\u0060": { "icon": "mdi:ZodiacGemini" },
+    "\u0061": { "icon": "mdi:ZodiacCancer" },
+    "\u0062": { "icon": "mdi:ZodiacLeo" },
+    "\u0063": { "icon": "mdi:ZodiacVirgo" },
+    "\u0064": { "icon": "mdi:ZodiacLibra" },
+    "\u0065": { "icon": "mdi:ZodiacScorpio" },
+    "\u0066": { "icon": "mdi:ZodiacSagittarius" },
+    "\u0067": { "icon": "mdi:ZodiacCapricorn" },
+    "\u0068": { "icon": "mdi:ZodiacAquarius" },
+    "\u0069": { "icon": "mdi:ZodiacPisces" },
+    "\u006A": { "icon": "mdi:Et" },
+    "\u006B": { "icon": "mdi:Ampersand" },
+    "\u006C": { "icon": "mdi:Circle" },
+    "\u006D": {
+      "icon": "mdi:CheckboxMultipleBlankCircleOutline",
+      "transform": [
+        { "type": "flip", "value": "horizontal" }
+      ]
+    },
+    "\u006E": { "icon": "mdi:CheckboxBlank" },
+    "\u006F": { "icon": "mdi:CheckboxBlankOutline" },
+    "\u0070": { "icon": "svg:CheckboxBlankThickOutline" },
+    "\u0071": {
+      "icon": "mdi:CheckboxMultipleBlankOutline",
+      "transform": [
+        { "type": "flip", "value": "horizontal" }
+      ]
+    },
+    "\u0072": {
+      "icon": "mdi:CheckboxMultipleBlankOutline",
+      "transform": [
+        { "type": "flip", "value": "both" }
+      ]
+    },
+    "\u0073": {
+      "icon": "mdi:CardsDiamond",
+      "transform": [
+        { "type": "scale", "value": 0.5 }
+      ]
+    },
+    "\u0074": { "icon": "mdi:CardsDiamond" },
+    "\u0075": { "icon": "mdi:Rhombus" },
+    "\u0076": { "icon": "mdi:RhombusSplit" },
+    "\u0077": { "icon": "mdi:RhombusMedium" },
+    "\u0078": { "icon": "mdi:CloseBoxOutline" },
+    "\u0079": { "icon": "mdi:ChevronUpBoxOutline" },
+    "\u007A": { "icon": "mdi:AppleKeyboardCommand" },
+    "\u007B": { "icon": "mdi:Flower" },
+    "\u007C": { "icon": "mdi:FlowerOutline" },
+    "\u007D": { "icon": "mdi:FormatQuoteOpen" },
+    "\u007E": { "icon": "mdi:FormatQuoteClose" },
+    "\u20AC": { "icon": "mdi:Numeric0BoxOutline" },
+    "\u0081": { "icon": "mdi:Numeric1BoxOutline" },
+    "\u201A": { "icon": "mdi:Numeric2BoxOutline" },
+    "\u0192": { "icon": "mdi:Numeric3BoxOutline" },
+    "\u201E": { "icon": "mdi:Numeric4BoxOutline" },
+    "\u2026": { "icon": "mdi:Numeric5BoxOutline" },
+    "\u2020": { "icon": "mdi:Numeric6BoxOutline" },
+    "\u2021": { "icon": "mdi:Numeric7BoxOutline" },
+    "\u02C6": { "icon": "mdi:Numeric8BoxOutline" },
+    "\u2030": { "icon": "mdi:Numeric9BoxOutline" },
+    "\u0160": { "icon": "mdi:Numeric10BoxOutline" },
+    "\u2039": { "icon": "mdi:Numeric0Box" },
+    "\u0152": { "icon": "mdi:Numeric1Box" },
+    "\u008D": { "icon": "mdi:Numeric2Box" },
+    "\u017D": { "icon": "mdi:Numeric3Box" },
+    "\u008F": { "icon": "mdi:Numeric4Box" },
+    "\u0090": { "icon": "mdi:Numeric5Box" },
+    "\u2018": { "icon": "mdi:Numeric6Box" },
+    "\u2019": { "icon": "mdi:Numeric7Box" },
+    "\u201C": { "icon": "mdi:Numeric8Box" },
+    "\u201D": { "icon": "mdi:Numeric9Box" },
+    "\u2022": { "icon": "mdi:Numeric10Box" },
+    "\u2013": { "icon": "svg:BudLeaf" },
+    "\u2014": {
+      "icon": "svg:BudLeaf",
+      "transform": [
+        { "type": "flip", "value": "horizontal" }
+      ]
+    },
+    "\u02DC": {
+      "icon": "svg:BudLeaf",
+      "transform": [
+        { "type": "flip", "value": "both" }
+      ]
+    },
+    "\u2122": {
+      "icon": "svg:BudLeaf",
+      "transform": [
+        { "type": "flip", "value": "vertical" }
+      ]
+    },
+    "\u0161": { "icon": "svg:VineLeaf" },
+    "\u203A": {
+      "icon": "svg:VineLeaf",
+      "transform": [
+        { "type": "flip", "value": "horizontal" }
+      ]
+    },
+    "\u0153": {
+      "icon": "svg:VineLeaf",
+      "transform": [
+        { "type": "flip", "value": "both" }
+      ]
+    },
+    "\u009D": {
+      "icon": "svg:VineLeaf",
+      "transform": [
+        { "type": "flip", "value": "vertical" }
+      ]
+    },
+    "\u017E": { "icon": "mdi:CircleSmall" },
+    "\u0178": { "icon": "mdi:CircleMedium" },
+    "\u00A0": { "icon": "mdi:SquareSmall" },
+    "\u00A1": { "icon": "mdi:CircleOutline" },
+    "\u00A2": { "icon": "svg:CheckboxBlankThickCircleOutline" },
+    "\u00A3": { "icon": "svg:CheckboxBlankExtraThickCircleOutline" },
+    "\u00A4": { "icon": "mdi:Adjust" },
+    "\u00A5": { "icon": "mdi:Bullseye" },
+    "\u00A6": {
+      "icon": "mdi:CheckboxMultipleBlankCircleOutline",
+      "transform": [
+        { "type": "flip", "value": "both" }
+      ]
+    },
+    "\u00A7": { "icon": "mdi:SquareMedium" },
+    "\u00A8": { "icon": "mdi:SquareOutline" },
+    "\u00A9": { "icon": "mdi:StarThreePoints" },
+    "\u00AA": { "icon": "mdi:StarFourPoints" },
+    "\u00AB": { "icon": "mdi:Star" },
+    "\u00AC": { "icon": "mdi:Hexagram" },
+    "\u02AD": { "icon": "mdi:Octagram" },
+    "\u00AE": { "icon": "mdi:Decagram" },
+    "\u00AF": { "icon": "mdi:DecagramOutline" },
+    "\u00B0": { "icon": "mdi:TargetVariant" },
+    "\u00B1": { "icon": "mdi:Target" },
+    "\u00B2": { "icon": "mdi:StarFourPointsOutline" },
+    "\u00B3": {
+      "icon": "mdi:StarFourPointsOutline",
+      "transform": [
+        { "type": "rotate", "value": 45 }
+      ]
+    },
+    "\u00B4": { "icon": "mdi:HelpRhombusOutline" },
+    "\u00B5": { "icon": "mdi:StarCircle" },
+    "\u00B6": { "icon": "mdi:StarOutline" },
+    "\u00B7": { "icon": "mdi:ClockTimeOneOutline" },
+    "\u00B8": { "icon": "mdi:ClockTimeTwoOutline" },
+    "\u00B9": { "icon": "mdi:ClockTimeThreeOutline" },
+    "\u00BA": { "icon": "mdi:ClockTimeFourOutline" },
+    "\u00BB": { "icon": "mdi:ClockTimeFiveOutline" },
+    "\u00BC": { "icon": "mdi:ClockTimeSixOutline" },
+    "\u00BD": { "icon": "mdi:ClockTimeSevenOutline" },
+    "\u00BE": { "icon": "mdi:ClockTimeEightOutline" },
+    "\u00BF": { "icon": "mdi:ClockTimeNineOutline" },
+    "\u00C0": { "icon": "mdi:ClockTimeTenOutline" },
+    "\u00C1": { "icon": "mdi:ClockTimeElevenOutline" },
+    "\u00C2": { "icon": "mdi:ClockTimeTwelveOutline" },
+    "\u00C3": { "icon": "mdi:SubdirectoryArrowLeft" },
+    "\u00C4": { "icon": "mdi:SubdirectoryArrowRight" },
+    "\u00C5": {
+      "icon": "mdi:SubdirectoryArrowRight",
+      "transform": [
+        { "type": "rotate", "value": 180 }
+      ]
+    },
+    "\u00C6": {
+      "icon": "mdi:SubdirectoryArrowLeft",
+      "transform": [
+        { "type": "rotate", "value": 180 }
+      ]
+    },
+    "\u00C7": {
+      "icon": "mdi:SubdirectoryArrowLeft",
+      "transform": [
+        { "type": "rotate", "value": 90 }
+      ]
+    },
+    "\u00C8": {
+      "icon": "mdi:SubdirectoryArrowRight",
+      "transform": [
+        { "type": "rotate", "value": 270 }
+      ]
+    },
+    "\u00C9": {
+      "icon": "mdi:SubdirectoryArrowRight",
+      "transform": [
+        { "type": "rotate", "value": 90 }
+      ]
+    },
+    "\u00CA": {
+      "icon": "mdi:SubdirectoryArrowLeft",
+      "transform": [
+        { "type": "rotate", "value": 270 }
+      ]
+    },
+    "\u00CB": { "icon": "mdi:Pinwheel" },
+    "\u00CC": { "icon": "mdi:PinwheelOutline" },
+    "\u00CD": {
+      "icon": "mdi:Leaf",
+      "transform": [
+        { "type": "rotate", "value": 90 },
+        { "type": "flip", "value": "horizontal" }
+      ]
+    },
+    "\u00CE": {
+      "icon": "mdi:Leaf",
+      "transform": [
+        { "type": "flip", "value": "horizontal" }
+      ]
+    },
+    "\u00CF": {
+      "icon": "mdi:Leaf",
+      "transform": [
+        { "type": "flip", "value": "vertical" }
+      ]
+    },
+    "\u00D0": {
+      "icon": "mdi:Leaf",
+      "transform": [
+        { "type": "rotate", "value": 90 },
+        { "type": "flip", "value": "vertical" }
+      ]
+    },
+    "\u00D1": {
+      "icon": "mdi:Leaf",
+      "transform": [
+        { "type": "rotate", "value": 270 }
+      ]
+    },
+    "\u00D2": {
+      "icon": "mdi:Leaf",
+      "transform": [
+        { "type": "rotate", "value": 180 }
+      ]
+    },
+    "\u00D3": { "icon": "mdi:Leaf" },
+    "\u00D4": {
+      "icon": "mdi:Leaf",
+      "transform": [
+        { "type": "rotate", "value": 80 }
+      ]
+    },
+    "\u00D5": { "icon": "mdi:BackspaceOutline" },
+    "\u00D6": {
+      "icon": "mdi:BackspaceOutline",
+      "transform": [
+        { "type": "flip", "value": "horizontal" }
+      ]
+    },
+    "\u00D7": { "icon": "mdi:ChevronLeft" },
+    "\u00D8": { "icon": "mdi:ChevronRight" },
+    "\u00D9": { "icon": "mdi:ChevronUp" },
+    "\u00DA": { "icon": "mdi:ChevronDown" },
+    "\u00DB": { "icon": "mdi:ArrowLeftBoldCircle" },
+    "\u00DC": { "icon": "mdi:ArrowRightBoldCircle" },
+    "\u00DD": { "icon": "mdi:ArrowUpBoldCircle" },
+    "\u00DE": { "icon": "mdi:ArrowDownBoldCircle" },
+    "\u00DF": { "icon": "mdi:ArrowLeft" },
+    "\u00E0": { "icon": "mdi:ArrowRight" },
+    "\u00E1": { "icon": "mdi:ArrowUp" },
+    "\u00E2": { "icon": "mdi:ArrowDown" },
+    "\u00E3": { "icon": "mdi:ArrowTopLeft" },
+    "\u00E4": { "icon": "mdi:ArrowTopRight" },
+    "\u00E5": { "icon": "mdi:ArrowBottomLeft" },
+    "\u00E6": { "icon": "mdi:ArrowBottomRight" },
+    "\u00E7": { "icon": "mdi:ArrowLeftThick" },
+    "\u00E8": { "icon": "mdi:ArrowRightThick" },
+    "\u00E9": { "icon": "mdi:ArrowUpThick" },
+    "\u00EA": { "icon": "mdi:ArrowDownThick" },
+    "\u00EB": { "icon": "mdi:ArrowTopLeftThick" },
+    "\u00EC": { "icon": "mdi:ArrowTopRightThick" },
+    "\u00ED": { "icon": "mdi:ArrowBottomLeftThick" },
+    "\u00EE": { "icon": "mdi:ArrowBottomRightThick" },
+    "\u00EF": { "icon": "mdi:ArrowLeftBoldOutline" },
+    "\u00F0": { "icon": "mdi:ArrowRightBoldOutline" },
+    "\u00F1": { "icon": "mdi:ArrowUpBoldOutline" },
+    "\u00F2": { "icon": "mdi:ArrowDownBoldOutline" },
+    "\u00F3": { "icon": "mdi:ArrowLeftRightBoldOutline" },
+    "\u00F4": { "icon": "mdi:ArrowUpDownBoldOutline" },
+    "\u00F5": { "icon": "mdi:ArrowTopLeftBoldOutline" },
+    "\u00F6": { "icon": "mdi:ArrowTopRightBoldOutline" },
+    "\u00F7": { "icon": "mdi:ArrowBottomLeftBoldOutline" },
+    "\u00F8": { "icon": "mdi:ArrowBottomRightBoldOutline" },
+    "\u00F9": { "icon": "svg:RectangleMediumOutline" },
+    "\u00FA": { "icon": "mdi:SquareMediumOutline" },
+    "\u00FB": { "icon": "mdi:Close" },
+    "\u00FC": { "icon": "mdi:Check" },
+    "\u00FD": { "icon": "mdi:CloseBoxOutline" },
+    "\u00FE": { "icon": "mdi:CheckboxMarkedOutline" },
+    "\u00FF": { "icon": "mdi:VectorSquare" }
+  }
+}
